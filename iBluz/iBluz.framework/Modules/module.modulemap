@@ -1,0 +1,6 @@
+framework module iBluz {
+  umbrella header "iBluz.h"
+
+  export *
+  module * { export * }
+}
